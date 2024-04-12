@@ -1,0 +1,17 @@
+img {
+    width: 300px;
+    height: auto;
+}
+
+.desc{
+    background-color: aquamarine;
+
+}
+
+.list{
+    background-color: bisque;
+}
+
+.steps{
+    background-color: lightgreen;
+}
