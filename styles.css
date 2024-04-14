@@ -2,8 +2,7 @@ img {
     display: block;
     width: 300px;
     height: auto;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 12px auto 12px auto;
 }
 
 h1 {
@@ -13,9 +12,20 @@ h1 {
     margin: 24px 360px 8px 360px;
 }
 
+li{
+    text-align: justify;
+    padding: 4px;
+    margin: 4px 16px 4px 16px;
+}
+
+p{
+    padding: 4px;
+    margin-left: 24px;
+    text-align: center;
+}
+
 .desc{
     background-color: aquamarine;
-
 }
 
 .list{
@@ -36,7 +46,13 @@ h1 {
     background-color: lightgreen;
 }
 
+.head{
+    padding: 4px;
+    text-align: center;
+}
+
 .link{
     padding: 8px;
     text-align: center;
+    font-size: 18px;
 }
